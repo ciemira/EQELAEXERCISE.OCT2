@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# EqelaExercise.Oct2
+#
+
+projectname: EqelaExercise.Oct2
+vendorid: ACMAZING.company
+mainmodule: ACMAZING.company.eqelaexerciseoct2
